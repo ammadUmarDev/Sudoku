@@ -1,6 +1,7 @@
 # Sudoku
 
 OS Project Report
+Phase 1
 
 For file writing ofstream object ‘out’ is  created.
 
