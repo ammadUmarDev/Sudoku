@@ -1,6 +1,6 @@
 # Sudoku
 
-OS Project Report
+OS Project Building Sudoku validator implementing core operating system concepts.    
 Phase 1
 
 For file writing ofstream object ‘out’ is  created.
